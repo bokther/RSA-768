@@ -1,7 +1,4 @@
 // Bokther Ahmed
-// John Yosko
-// Alvin Williams
-// Younes Chacha
 
 #include <cmath>
 #include <iostream>
