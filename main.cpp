@@ -1,5 +1,3 @@
-// Bokther Ahmed
-
 #include <cmath>
 #include <iostream>
 #include <fstream>
